@@ -1,0 +1,4 @@
+#Tue Mar 20 20:52:46 BRT 2018
+base.0=C\:\\Users\\WinLiba\\Documents\\Clientes\\Jonathan\\Dugo\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex
